@@ -3,12 +3,6 @@ I am an aspiring web developer dedicated to crafting gorgeous websites. With ove
 I am enrolled in and contributing to [The Odin Project](https://www.theodinproject.com) full-stack web development curriculum, developing a toolset to create design system documentation for use on the web, and maintaining my husband's professional website.
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabulousgk&show_icons=true&theme=transparent&hide_rank=true&custom_title=fabulousgk%27s%20GitHub%20Stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=fabulousgk&theme=transparent&mode=weekly&fire=EB00E4&dates=3C1515&ring=3C88EB&sideLabels=3C88EB&sideNums=3C88EB&currStreakLabel=3C88EB&currStreakNum=EB00E4&hide_longest_streak=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabulousgk&langs_count=8&card_width=320" />
-</a>
 </div>
-
-
