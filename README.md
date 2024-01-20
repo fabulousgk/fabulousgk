@@ -11,7 +11,7 @@ Hello, I am Brian, an aspiring web developer dedicated to crafting gorgeous webs
 </picture>
 </a>
 
-<p align="justify">As a student and contributor, I am actively involved with <a href="https://theodinproject.com">The Odin Project</a>, an open-source, full-stack web developer curriculum. Additionally, I assist fellow learners through the curriculum's Discord server.</p>
+<p align="justify">As a student and contributor, I am actively involved with <a href="https://theodinproject.com">The Odin Project</a>, an open-source, full-stack web developer curriculum.</p>
 
 <br clear="left"/>
 <br>
@@ -34,7 +34,6 @@ Hello, I am Brian, an aspiring web developer dedicated to crafting gorgeous webs
 
 ![Expert](./assets/images/skills/expert.png)
 [![HTML](./assets/images/skills/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Discord Administration](./assets/images/skills/discord.png)](https://discord.com)
 [![PowerShell](./assets/images/skills/ps.png)](https://learn.microsoft.com/en-us/powershell)
 [![Windows Administration and Deployment](./assets/images/skills/win.png)](https://learn.microsoft.com/en-us/mem/configmgr/mdt)
 
@@ -47,7 +46,6 @@ Hello, I am Brian, an aspiring web developer dedicated to crafting gorgeous webs
 ![Beginner](./assets/images/skills/beginner.png)
 [![Node.js](./assets/images/skills/node.png)](https://nodejs.org)
 [![Sass](./assets/images/skills/sass.png)](https://sass-lang.com)
-[![Discord Developer](./assets/images/skills/discord-dev.png)](https://discord.com/developers/docs/intro)
 [![GitHub](./assets/images/skills/github.png)](https://github.com)
 [![git](./assets/images/skills/git.png)](https://git-scm.com)
 
