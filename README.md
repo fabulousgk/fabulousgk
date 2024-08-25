@@ -75,7 +75,7 @@ Hello, I'm Brian. I’m a seasoned IT professional with over 20 years of experie
   </picture>
 </a>
 
-<br>
+### The rest
 
 <a href="https://azure.microsoft.com/en-us/">
   <picture>
